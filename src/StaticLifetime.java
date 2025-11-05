@@ -1,6 +1,5 @@
 public class StaticLifetime {
 
-
         static int counter = 0;
 
         void incrementCounter() {
@@ -8,5 +7,4 @@ public class StaticLifetime {
             System.out.println(" The value of counter : " + counter);
 
         }
-
 }
