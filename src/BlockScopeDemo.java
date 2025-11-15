@@ -1,5 +1,4 @@
 public class BlockScopeDemo {
-
         public static void main(String[] args) {
             int outerX = 5;
 
@@ -10,9 +9,9 @@ public class BlockScopeDemo {
                 System.out.println("innerY = " + innerY);
             }
 
+
+
             System.out.println("Outside if block:");
             System.out.println("outerX = " + outerX);
-
-
         }
     }
